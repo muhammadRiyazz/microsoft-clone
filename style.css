@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bodystyle{
+  width: 90%;
+margin: 0 auto;
+}
+.logostyle{
+height: 23px;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+  .carousel-2 {
+    width: 90%;
+    margin: auto;
+    background: #fff;
+    padding: 30px;
+    margin: 10px auto 0px;
+}
+  .carousel-item{
+    position: relative;
+    z-index: 1;
+  }
+  .carousel-caption{
+position: absolute;
+top: 23%;
+left: 5%!important;
+
+  }  
+  .carousel-caption h3{
+   
+text-align: left;
+color: black;
+  }
+  .carousel-caption p{
+    text-align: left;
+    
+    color: black;
+      }
+      .carousel-caption button{
+        color: white;
+        background-color: rgb(77, 50, 187);
+        border: none;
+        font-size: 15px;
+        position: absolute;
+        left: 0;
+        padding: 10px 20px;
+      }
+      main{
+        margin: 40px 0;
+      }
+      .card{
+        border: none!important;
+      }
+      .card-body{
+        padding: 5px 0!important;
+      }
+      .card-img-top{
+        height: 170px;
+      }
+      .edgestyle{
+       
+
+        height: 500px;
+        background-image: url(../img/edge.avif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 70px;
+   
+      }
+      .edge{
+        width: 35%;
+    background: #fff;
+    padding: 50px;}
+
+    .edge button{
+    color: white;
+    background-color: rgb(77, 50, 187);
+    border: none;
+    font-size: 15px;
+    
+   
+    padding: 10px 20px;
+      }
+      .edge-2 button{
+        color: white;
+        background-color: rgb(77, 50, 187);
+        border: none;
+        font-size: 15px;
+        
+       
+        padding: 10px 20px;}
+      .edge-2{
+        width: 35%;
+        background: #fff;
+        padding: 50px;}
+    
+      
+      .row{
+        display: flex;
+      }
+      .ftr{
+        margin-top: 3rem!important;
+      }
+      footer{
+        background-color: #f2f2f2;
+        padding: 40px 0;
+      }
+      li{
+list-style: none;
+      }
+      .footerlast{
+        display: flex;
+    justify-content: space-between;
+}
+
+      
+      .last{
+        padding-top: 1.5rem!important;
+    padding-bottom: 1.5rem!important;
+      }
+      .row{
+      
+    display: flex;
+    
+      }
+      footer a{
+        text-decoration: none;
+    color: #616161;
+    font-size: 11px;
+      }
+      .sectionstyle{
+        width: 90%;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
